@@ -1,19 +1,17 @@
-## UniSat Inscribe Demo
+# UniSat Inscribe Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Run the demo
+Run the demo
 
-#### Install dependencies
+Install dependencies
 
 ```bash
 yarn
 ```
 
-#### Run the app
+Run the app
 
 ```bash
 yarn start
 ```
-
-
